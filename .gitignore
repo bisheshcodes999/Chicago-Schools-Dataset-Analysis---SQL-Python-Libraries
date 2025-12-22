@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MySQL
+*.sql           # optional: only ignore if you don’t want raw dumps
+*.db
+*.sqlite
+
+# Data
+*.csv            # optional: ignore large datasets
+
+# MacOS
+.DS_Store
